@@ -6,7 +6,7 @@ let dados = [
     }
     {
         titulo : "Rayssa Leal",
-        descrição : "Skatista profissional brasileira, conhecida como "Fadinha". Aos 13 anos, tornou-se a skatista mais jovem a ser patrocinada por uma grande marca de skate.",
+        descrição : "Skatista profissional brasileira, conhecida como Fadinha. Aos 13 anos, tornou-se a skatista mais jovem a ser patrocinada por uma grande marca de skate.",
         link : "https://pt.wikipedia.org/wiki/Raissa_Leal",
     }
     {
